@@ -15,6 +15,7 @@ Features:
 Done by:
  1. Gunda Ganesh ( ce210004016 )
  2. Peram Harish ( mems210005031 )
+
 Technology Used:
  1. The Python framework Flask.
  2. Javascript, CSS, and HTML.
